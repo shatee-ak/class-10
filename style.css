@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.h1{
+    color:white;
+}
+.hero{
+  background-image: url("makeup2.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  
+  overflow: hidden;
+ 
+ }
+ .project{
+    margin: 20px;
+    overflow: hidden;
+    width: 100%;
+ }
+ .item1{
+    float: left;
+background-image: url("iteam1.webp");
+    
+ }
+
